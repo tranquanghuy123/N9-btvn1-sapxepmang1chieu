@@ -1,0 +1,4 @@
+﻿  btvn1 SapXepMang1Chieu.cpp
+D:\Lap trình C++\Ngay 9 mang 2 chieu\btvn1 SapXepMang1Chieu\btvn1 SapXepMang1Chieu\btvn1 SapXepMang1Chieu.cpp(9,6): error C2082: redefinition of formal parameter 'n'
+D:\Lap trình C++\Ngay 9 mang 2 chieu\btvn1 SapXepMang1Chieu\btvn1 SapXepMang1Chieu\btvn1 SapXepMang1Chieu.cpp(28,10): error C2082: redefinition of formal parameter 'a'
+D:\Lap trình C++\Ngay 9 mang 2 chieu\btvn1 SapXepMang1Chieu\btvn1 SapXepMang1Chieu\btvn1 SapXepMang1Chieu.cpp(29,10): error C2082: redefinition of formal parameter 'b'
